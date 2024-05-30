@@ -1,0 +1,48 @@
+
+.col-12{
+    background-color: #121212;
+}
+#row{
+    background-color:#242424;
+    max-width: 320px;
+}
+.btne{
+    max-width: 100px;
+    display: flex;
+    align-items: center;
+    border: 1px solid grey;
+    border-radius: 20px;
+}
+.btne button {
+    border: none;
+    background: transparent;
+    color: white;
+    font-weight: 500;
+    padding: 5px;
+    }
+.btne img{
+    margin-left: 10px;
+}
+#colb{
+    background-color: #121212;
+    max-height: 520px;
+    overflow-y: scroll;
+}
+#MAINROW{
+    background-color: #1e1e1e;
+}
+.card:hover {
+    transform: scale(1.15);
+    transition: transform 0.3s ease;
+}
+#colc{
+    min-height: 357px;
+}
+#final {
+    background: linear-gradient(to right, #af2896, #509bf5);
+  max-height: 15vh;
+}
+#finalb{
+    font-weight: 700;
+}
+
